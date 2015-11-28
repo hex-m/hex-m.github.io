@@ -1,0 +1,16 @@
+= Hello World!
+
+HubPress doesn't want to save my Post. Let's see whats wrong here..
+
+The error message isn't particularly helpfull.
+"Your post was not saved. See your browser's developer console for the cause of the error."
+
+As I'm not a Web developer I don't know what to do with it. Firebug is installed but there is nothing usefull in the Console.
+
+RTFM does help of course. The manual states
+"A = Blog Title is required for saving it successfully."
+
+So putting a '=' in front of my title should solve the first adventure.
+
+yours,
+hm
